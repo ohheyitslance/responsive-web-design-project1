@@ -1,10 +1,17 @@
-#main {}
+#main {
+    background-color: #3333;
+}
 
 #title {
     text-align: center;
+    margin: 27px;
 }
 
-#img-div {}
+#img-div {
+    background-color: white;
+    margin: 50px 125px 50px 125px;
+    padding: 50px;
+}
 
 #image {
     max-width: 100%;
@@ -13,8 +20,24 @@
     margin: 0 auto;
 }
 
-#img-caption {}
+#img-caption {
+    text-align: center;
+}
 
 p {
+    text-align: center;
+}
+
+ul {
+    max-width: 550px;
+    text-align: left;
+    margin: 0 auto 50px auto;
+}
+
+li {
+    text-align: -webkit-match-parent;
+}
+
+h3 {
     text-align: center;
 }
