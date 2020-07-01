@@ -1,2 +1,1 @@
-# responsive-web-design-project1
-responsive web design project from freecodecamp
+A responsive web design project from freecodecamp.
